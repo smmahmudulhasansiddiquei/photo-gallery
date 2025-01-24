@@ -1,1 +1,1 @@
-# Photo_Gallery_Application
+# photo-gallery
