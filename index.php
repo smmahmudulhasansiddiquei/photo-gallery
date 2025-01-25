@@ -45,12 +45,6 @@
                     <input type="hidden" name="id" value="<?= $row['id']; ?>">
                     <button type="submit">Delete</button>
                 </form>
-                <div>
-                    <form action="edit.php" method="POST">
-                        <input type="hidden" name="id" value="<?= $row['id']; ?>">
-                        <button type="submit">Edit</button>
-                    </form>
-                </div>
             </div>
             <?php 
                 endwhile; 
